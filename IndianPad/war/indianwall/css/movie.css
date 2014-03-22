@@ -1,0 +1,60 @@
+.newsDiv {
+
+  margin: 0px;
+
+  padding : 5px;
+
+  #border-right : 2px solid ;
+
+  background: #222222;
+
+}
+
+
+
+.newsDiv ul {
+
+  list-style-type: none;
+
+  padding: 0px;
+
+  margin: 0px;
+
+}
+
+.newsDiv ul h3 {
+
+  font: bold 20px/1.5 Helvetica, Verdana, sans-serif;
+
+}
+
+.newsDiv li img {
+
+  float: left;
+
+  margin: 0 0px 0 0;
+
+}
+
+.newsDiv li p {
+
+  font: 200 12px/1.5 Georgia, Times New Roman, serif;
+
+}
+
+li {
+
+  padding: 3px;
+
+  overflow: auto;
+
+}
+
+.newsDiv li:hover {
+
+  background: #eee;
+
+  cursor: pointer;
+
+}
+
