@@ -1,15 +1,33 @@
 var app = app || {};
 
 
+
 app.Feed = Backbone.Model.extend({
-initialize: function() {
-//console.log('Feed is initialized');
-},
+
+       
+
+       initialize: function() {
+
+              console.log('Feed is initialized');
+
+       },
+
+       
+
     defaults: {
-    fid:'',
+
+       fid:'',
+
         title: '',
+
         description: '',
+
         link: '',
+
         entries:[]
+
     }
+
+       
+
 });
