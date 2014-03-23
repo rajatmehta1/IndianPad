@@ -8,7 +8,7 @@ app.Feed = Backbone.Model.extend({
 
        initialize: function() {
 
-              console.log('Feed is initialized');
+              //console.log('Feed is initialized');
 
        },
 

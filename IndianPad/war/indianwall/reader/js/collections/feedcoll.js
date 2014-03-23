@@ -6,7 +6,7 @@ app.FeedColl = Backbone.Collection.extend({
 
                 initialize: function() {
 
-                                console.log("collection intiliazed");
+                                //console.log("collection intiliazed");
 
                 },
 

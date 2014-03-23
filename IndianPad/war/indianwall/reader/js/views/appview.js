@@ -376,11 +376,11 @@ app.AppView = Backbone.View.extend({
 
     pageChange: function(event) {
 
-       console.log('event fired by -->' + event.target.id);
+      // //('event fired by -->' + event.target.id);
 
        var pgValue = event.target.id.substr(11);
 
-       console.log('event fired by id now -->' + pgValue);
+       //console.log('event fired by id now -->' + pgValue);
 
         var catValue = $("#category").val();
 
@@ -406,7 +406,7 @@ app.AppView = Backbone.View.extend({
 
                               error: function() {
 
-                                    console.log("some err occured");
+                                    //console.log("some err occured");
 
                               }
 
