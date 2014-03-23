@@ -311,6 +311,8 @@
                   <li class="active"><a href="#">iReader</a></li>
 
                   <li><a href="#about">iVideos</a></li>
+                  
+                  <li><a href="#about">iMusic</a></li>
 
                   <li><a href="#contact">iWall</a></li>
 
@@ -333,7 +335,7 @@
              
               	<div class="span11 well">
               	    <button type="button" class="close" data-dismiss="alert">&times;</button>
-  					<H3> Read all your favorite Indian News Papers, Blogs, Articles, Stories at one place.</H3>
+  					<H3> Indian Reader - read all your favorite news, blogs, articles and stories at one place.</H3>
 			  	</div>
 
               <div class="masthead span12">
