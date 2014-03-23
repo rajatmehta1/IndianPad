@@ -330,10 +330,15 @@
 
     <div id="mainContainer" class="container">
 
-          
+             
+              	<div class="span11 well">
+              	    <button type="button" class="close" data-dismiss="alert">&times;</button>
+  					<H3> Read all your favorite Indian News Papers, Blogs, Articles, Stories at one place.</H3>
+			  	</div>
 
               <div class="masthead span12">
 
+			  
                  <div id="categoryDiv" class="pull-left">
 
                     <h4>Category: </h4>
