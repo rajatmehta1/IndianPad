@@ -128,7 +128,25 @@ public class FeedsData {
 
 	                feedsMap.put("News.Marathi", marathiNews);
 	                
-	                                 
+	                List<String> teluguNews = new ArrayList<String>();
+
+	                
+	                http://feeds.feedburner.com/apherald-politics-news
+	                teluguNews.add("http://telugu.webdunia.com/contmgmt/xmlfeeds/rss/newsworld_news.xml"); //slightly different file...write new
+	                teluguNews.add("http://telugu.oneindia.in/rss/telugu-news-fb.xml");
+	                teluguNews.add("http://www.teluguwishesh.com/home/190-flash-news.feed");
+	                teluguNews.add("http://feeds.feedburner.com/apherald-politics-news");
+	                teluguNews.add("http://54.243.62.7/newsfeed/breakingnews");
+	                teluguNews.add("http://www.telugu-news.com/rss/national-news.xml");
+	                teluguNews.add("http://54.243.62.7/newsfeed/breakingnews");
+	                teluguNews.add("http://54.243.62.7/newsfeed/breakingnews");
+	                teluguNews.add("http://54.243.62.7/newsfeed/breakingnews");
+	                teluguNews.add("http://54.243.62.7/newsfeed/breakingnews");
+	                
+	
+	                
+
+	                feedsMap.put("News.Marathi", marathiNews);                     
 
     }
 
